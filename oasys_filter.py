@@ -1,4 +1,3 @@
-cat OFS/oasys_filter.py
 from mitmproxy import http
 from PIL import Image
 import io
